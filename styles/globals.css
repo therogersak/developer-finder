@@ -24,13 +24,10 @@ html{
   box-shadow: 5px 5px 77px #d6d6d6, -5px -5px 77px #ffffff;
 }
 
-.statis:nth-child(1) {
+.statis{
   position: relative;
 }
 
-.statis:nth-child(2) {
-  position: relative;
-}
 
 .statis::after {
   content: "";
@@ -40,6 +37,11 @@ html{
   width: 3px;
   height: 100%;
   background: #fa932c;
+}
+
+.statis:nth-child(3)::after{
+  content: '';
+  width: 0;
 }
 
 .sd3 {

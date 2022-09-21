@@ -3,7 +3,7 @@ import Image from "next/image";
 function Elements() {
   return (
     <>
-      <div className="hidden sm:block">
+      <div className="hidden lg:block">
         <div className="fixed top-[10%] left-[5%] w-[10vw]">
           <Image src="/emoji-1.png" alt="emoji" width={1000} height={1000} />
         </div>
