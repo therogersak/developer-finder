@@ -5,7 +5,7 @@
 
 
 <p align="center">
-    Developer Finderusing Next JS.
+    Developer Finder using Next JS.
     <br />
     <br />
 </p>
