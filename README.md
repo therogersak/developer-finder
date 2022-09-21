@@ -1,6 +1,6 @@
 <br />
 <p align="center">
-    <a href="https://twitter-48a2e.web.app/"><img src="https://github.com/therogersak/developer-finder/blob/main/preview.png?raw=true" alt="developer finder" width="100%"></a>
+    <a href="https://developerfinder.vercel.app/"><img src="https://github.com/therogersak/developer-finder/blob/main/preview.png?raw=true" alt="developer finder" width="100%"></a>
 </p>
 
 
