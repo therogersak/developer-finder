@@ -17,7 +17,7 @@ export default function Home() {
   console.log(query);
   console.log(data);
   return (
-    <div className="bg-[#F6F8FF] h-screen overflow-hidden">
+    <div className="bg-[#F6F8FF] w-full h-screen overflow-hidden">
       <Head>
         <title>Find Developers - therogersak</title>
         <meta name="description" content="find any developer therogersak " />
