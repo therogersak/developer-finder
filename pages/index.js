@@ -19,7 +19,7 @@ export default function Home() {
   return (
     <div className="bg-[#F6F8FF] h-screen overflow-hidden">
       <Head>
-        <title>Find Developer - therogersak</title>
+        <title>Find Developers - therogersak</title>
         <meta name="description" content="find any developer therogersak " />
         <link rel="icon" href="/favicon.ico" />
       </Head>
