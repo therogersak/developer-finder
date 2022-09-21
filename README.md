@@ -37,7 +37,7 @@ $ npm start
 
 the Rogers ak - [therogersak@gmail.com](mailto:therogersak@gmail.com)
 
-| <a href="https://github.com/therogersak"><img src="https://cdn.iconscout.com/icon/free/png-512/github-153-675523.png" width="30"></a> | <a href="https://www.linkedin.com/in/therogersak/"><img src="https://cdn-icons-png.flaticon.com/512/4494/4494497.png" width="30"></a> | <a href="mailto:therogersak@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="30"></a> | 
+| <a href="https://github.com/therogersak"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111292.png" width="30"></a> | <a href="https://www.linkedin.com/in/therogersak/"><img src="https://cdn-icons-png.flaticon.com/512/4494/4494497.png" width="30"></a> | <a href="mailto:therogersak@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="30"></a> | 
 | --- | --- | --- |
 
 ## License
