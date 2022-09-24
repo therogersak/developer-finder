@@ -19,11 +19,25 @@ export default function Home() {
   return (
     <div className="bg-[#F6F8FF]">
       <Head>
-        <title>Find Developers - therogersak</title>
-        <meta name="description" content="find any developer therogersak " />
-        <link rel="icon" href="/favicon.ico" />
+        <title>Developer Finder - therogersak</title>
+        <meta
+          name="viewport"
+          content="width=device-width, initial-scale=1"
+        ></meta>
+        <meta
+          name="keywords"
+          content="dev, developer, developers, developer finder, dev finder, github user finder, github, therogersak, rogers, rogersak, programmers, corders, code, coding"
+        />
+        <meta property="og:title" content="Developer Finder - therogersak" />
+        <meta property="og:type" content="developers.txt" />
+        <meta property="og:url" content="http://developerfinder.vercel.app/" />
+        <meta
+          property="og:image"
+          content="https://github.com/therogersak/portfolie-using-next-js/raw/main/portfolio.png"
+        />
+        <meta charSet="utf-8"></meta>
+        <link rel="icon" href="/favicon.ico"></link>
       </Head>
-
       <HomePage data={data} />
       <Elements />
     </div>
